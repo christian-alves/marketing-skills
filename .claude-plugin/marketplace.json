@@ -1,0 +1,28 @@
+{
+  "name": "sinoon-marketing",
+  "owner": {
+    "name": "Christian Alves",
+    "email": "contato@sinoon.com.br"
+  },
+  "metadata": {
+    "description": "5 skills do Claude Code para profissionais de marketing. Brand guidelines, pesquisa com fontes, briefing de campanha, carrossel e sequência de e-mail.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "marketing-pack",
+      "source": "marketing-pack",
+      "description": "Pack completo com 5 skills de marketing para Claude Code",
+      "version": "1.0.0",
+      "author": {
+        "name": "Christian Alves",
+        "email": "contato@sinoon.com.br"
+      },
+      "homepage": "https://sinoon.com.br",
+      "license": "MIT",
+      "category": "productivity",
+      "tags": ["marketing", "branding", "social-media", "email", "research"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "marketing-pack",
+  "description": "5 skills essenciais de marketing: brand guidelines, pesquisa com fontes, briefing de campanha, carrossel e sequência de e-mail.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christian Alves",
+    "email": "contato@sinoon.com.br"
+  },
+  "homepage": "https://sinoon.com.br",
+  "license": "MIT"
+}
