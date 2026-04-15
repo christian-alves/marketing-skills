@@ -12,7 +12,7 @@
   "plugins": [
     {
       "name": "marketing-pack",
-      "source": "./marketing-pack",
+      "source": "./plugins/marketing-pack",
       "description": "Pack completo com 5 skills de marketing para Claude Code",
       "version": "1.0.0",
       "author": {
