@@ -19,8 +19,10 @@ Pack com 5 skills de marketing para profissionais que usam Claude Code.
 No Claude Code, rode:
 
 ```
-/plugin marketplace add euchristianalves/marketing-skills
+/plugin marketplace add https://github.com/christian-alves/marketing-skills.git
 ```
+
+> **Nota:** Use a URL HTTPS (como acima). Se usar o atalho `christian-alves/marketing-skills`, pode dar erro de SSH em máquinas que não têm o GitHub configurado.
 
 ### 2. Instale o pack
 
